@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NET1720_Ass1_SE173550_VuHoangDuyKhanh.props" />
+</Project>

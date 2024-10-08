@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\source\\repos\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\source\\repos\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\source\\repos\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\queryrun\\query.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\queryrun\\query.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\source\\repos\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\database\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\database\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\source\\repos\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\database\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\database\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\source\\repos\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\source\\repos\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\source\\repos\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\source\\repos\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 72,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Query.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\QueryRun\\Query.txt",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\QueryRun\\Query.txt",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\QueryRun\\Query.txt",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\QueryRun\\Query.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-08T20:41:37.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:20:11.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\appsettings.Development.json",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T20:07:30.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\appsettings.json",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\appsettings.json",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T20:06:29.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NET1720_Ass1_SE173550_VuHoangDuyKhanh.http",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.http",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.http",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.http",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-08T19:59:01.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Program.cs",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Program.cs",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:51:23.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:45:46.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\MemberManager.cs",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\MemberManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\MemberManager.cs",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\MemberManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwDQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:35:58.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\Member.cs",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\Member.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\Member.cs",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:34:07.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
