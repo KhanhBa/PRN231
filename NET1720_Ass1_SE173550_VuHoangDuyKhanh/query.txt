@@ -1,0 +1,19 @@
+https://localhost:7294/odata/Members
+https://localhost:7294/odata/Members?$filter=Age gt 20https://localhost:7294/odata/Members?$filter=Salary lt 6000
+https://localhost:7294/odata/Members?$select=Name,Age
+https://localhost:7294/odata/Members?$orderby=Age asc
+https://localhost:7294/odata/Members?$orderby=Salary desc
+https://localhost:7294/odata/Members?$top=5
+https://localhost:7294/odata/Members?$skip=3&$top=5
+https://localhost:7294/odata/Members?$filter=Age gt 20&$select=Id,Name
+https://localhost:7294/odata/Members?$filter=UserName eq 'khanhsky'
+https://localhost:7294/odata/Members/$count
+https://localhost:7294/odata/Members?$filter=Salary gt 5000&$orderby=Name asc
+https://localhost:7294/odata/Members?$filter=UserName eq 'Manh'
+https://localhost:7294/odata/Members?$filter=Age lt 30 and Salary gt 4000
+https://localhost:7294/odata/Members?$orderby=Age&$select=Id,Age
+https://localhost:7294/odata/Members?$filter=Age ge 20 and Age le 30
+https://localhost:7294/odata/Members?$select=Name
+https://localhost:7294/odata/Members?$filter=Age gt 18&$orderby=Salary
+https://localhost:7294/odata/Members?$filter=Salary gt 7000&$orderby=Age
+https://localhost:7294/odata/Members?$filter=Id eq 1 or Id eq 3 or Id eq 5

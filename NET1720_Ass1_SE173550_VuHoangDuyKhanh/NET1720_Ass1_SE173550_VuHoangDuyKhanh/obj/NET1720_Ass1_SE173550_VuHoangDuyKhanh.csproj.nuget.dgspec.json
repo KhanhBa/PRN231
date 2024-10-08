@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj": {}
+    "C:\\Users\\Admin\\OneDrive\\Máy tính\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj": {
+    "C:\\Users\\Admin\\OneDrive\\Máy tính\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\OneDrive\\Máy tính\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj",
         "projectName": "NET1720_Ass1_SE173550_VuHoangDuyKhanh",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj",
+        "projectPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\OneDrive\\Máy tính\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
