@@ -22,11 +22,11 @@ namespace NET1720_Ass1_SE173550_VuHoangDuyKhanh.Controllers
             return Ok(result);
         }
 
-        [HttpGet("({key})")]
+        [HttpGet("({id})")]
         [EnableQuery]
-        public IActionResult Get(int key)
+        public IActionResult Get(int id)
         {
-            var member = _memberManager.GetAll().FirstOrDefault(m => m.Id == key);
+            var member = _memberManager.GetAll().FirstOrDefault(m => m.Id == id);
             if (member == null)
             {
                 return NotFound();

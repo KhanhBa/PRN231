@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B92600F-1849-4447-8157-EF88E295929C}|WcfServiceMember\\WcfServiceMember.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\wcfservicemember\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B92600F-1849-4447-8157-EF88E295929C}|WcfServiceMember\\WcfServiceMember.csproj|solutionrelative:wcfservicemember\\service1.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B92600F-1849-4447-8157-EF88E295929C}|WcfServiceMember\\WcfServiceMember.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn231\\net1720_ass2_se173550_vuhoangduykhanh\\wcfservicemember\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0B92600F-1849-4447-8157-EF88E295929C}|WcfServiceMember\\WcfServiceMember.csproj|solutionrelative:wcfservicemember\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B92600F-1849-4447-8157-EF88E295929C}|WcfServiceMember\\WcfServiceMember.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\wcfservicemember\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B92600F-1849-4447-8157-EF88E295929C}|WcfServiceMember\\WcfServiceMember.csproj|solutionrelative:wcfservicemember\\iservice1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B92600F-1849-4447-8157-EF88E295929C}|WcfServiceMember\\WcfServiceMember.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\wcfservicemember\\app_data\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B92600F-1849-4447-8157-EF88E295929C}|WcfServiceMember\\WcfServiceMember.csproj|solutionrelative:wcfservicemember\\app_data\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B92600F-1849-4447-8157-EF88E295929C}|WcfServiceMember\\WcfServiceMember.csproj|C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\wcfservicemember\\app_data\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B92600F-1849-4447-8157-EF88E295929C}|WcfServiceMember\\WcfServiceMember.csproj|solutionrelative:wcfservicemember\\app_data\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 233,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IService1.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\WcfServiceMember\\IService1.cs",
+              "RelativeDocumentMoniker": "WcfServiceMember\\IService1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\WcfServiceMember\\IService1.cs",
+              "RelativeToolTip": "WcfServiceMember\\IService1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:15:18.362Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\WcfServiceMember\\Web.config",
+              "RelativeDocumentMoniker": "WcfServiceMember\\Web.config",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\WcfServiceMember\\Web.config",
+              "RelativeToolTip": "WcfServiceMember\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-15T10:33:01.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\WcfServiceMember\\App_Data\\MemberManager.cs",
+              "RelativeDocumentMoniker": "WcfServiceMember\\App_Data\\MemberManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\WcfServiceMember\\App_Data\\MemberManager.cs",
+              "RelativeToolTip": "WcfServiceMember\\App_Data\\MemberManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:27:37.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\WcfServiceMember\\Service1.svc.cs",
+              "RelativeDocumentMoniker": "WcfServiceMember\\Service1.svc.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\WcfServiceMember\\Service1.svc.cs",
+              "RelativeToolTip": "WcfServiceMember\\Service1.svc.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:27:08.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\WcfServiceMember\\App_Data\\Member.cs",
+              "RelativeDocumentMoniker": "WcfServiceMember\\App_Data\\Member.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass2_SE173550_VuHoangDuyKhanh\\WcfServiceMember\\App_Data\\Member.cs",
+              "RelativeToolTip": "WcfServiceMember\\App_Data\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:22:06.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

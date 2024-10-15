@@ -1,0 +1,7 @@
+C:\Users\Admin\OneDrive\Máy tính\PRN231\NET1720_Ass2_SE173550_VuHoangDuyKhanh\WcfServiceMember\bin\WcfServiceMember.dll.config
+C:\Users\Admin\OneDrive\Máy tính\PRN231\NET1720_Ass2_SE173550_VuHoangDuyKhanh\WcfServiceMember\bin\WcfServiceMember.dll
+C:\Users\Admin\OneDrive\Máy tính\PRN231\NET1720_Ass2_SE173550_VuHoangDuyKhanh\WcfServiceMember\bin\WcfServiceMember.pdb
+C:\Users\Admin\OneDrive\Máy tính\PRN231\NET1720_Ass2_SE173550_VuHoangDuyKhanh\WcfServiceMember\obj\Debug\WcfServiceMember.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\PRN231\NET1720_Ass2_SE173550_VuHoangDuyKhanh\WcfServiceMember\obj\Debug\WcfServiceMember.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\PRN231\NET1720_Ass2_SE173550_VuHoangDuyKhanh\WcfServiceMember\obj\Debug\WcfServiceMember.dll
+C:\Users\Admin\OneDrive\Máy tính\PRN231\NET1720_Ass2_SE173550_VuHoangDuyKhanh\WcfServiceMember\obj\Debug\WcfServiceMember.pdb

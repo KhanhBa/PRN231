@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn231\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\database\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\database\\membermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn231\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|c:\\users\\admin\\onedrive\\m\u00E1y t\u00EDnh\\prn231\\net1720_ass1_se173550_vuhoangduykhanh\\net1720_ass1_se173550_vuhoangduykhanh\\database\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A7228A-AB8D-486B-A16F-2798E5457B54}|NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh.csproj|solutionrelative:net1720_ass1_se173550_vuhoangduykhanh\\database\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\Member.cs",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\Member.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\Member.cs",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:05:06.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\MemberManager.cs",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\MemberManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\MemberManager.cs",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Database\\MemberManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:03:17.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\M\u00E1y t\u00EDnh\\PRN231\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "NET1720_Ass1_SE173550_VuHoangDuyKhanh\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T01:03:13.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
