@@ -29,6 +29,18 @@ namespace WcfServiceMember
             return members;
         }
 
+        public List<Member> Delete(int memberId)
+        {
+            List<Member> members = _data.GetAll();
+            var existingMember = _data.members.Find(m => m.Id == memberId);
+            if (existingMember == null)
+            {
+                return members;
+            }
+            members.Remove(existingMember);
+            return members;
+        }
+
         public List<Member> GetData()
         {
             return _data.GetAll();

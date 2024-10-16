@@ -20,5 +20,9 @@ namespace WcfServiceMember
 
         [OperationContract]
         List<Member> Update(Member member);
+
+        [OperationContract]
+        List<Member> Delete(int memberId);
+
     }
 }
